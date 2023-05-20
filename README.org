@@ -1,0 +1,9 @@
+* cl-slugify
+
+convert string into a slug representation.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/diasbruno/cl-slugify.git |
+| commit  | 46597cf                                         |
+| systems | cl-slugify                                      |
+|---------+-------------------------------------------------|
